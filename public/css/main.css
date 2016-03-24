@@ -38,8 +38,10 @@ ul {
 .readMore {
   float: right; }
 
-.newVideo input {
-  display: inline; }
+.newvideolist li {
+  display: inline;
+  float: left; 
+  padding: 5px;}
 
 .repl {
   text-decoration: underline;
